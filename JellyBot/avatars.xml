@@ -12,13 +12,13 @@
 	<avatar name="Red JellyBot" image="Old enemies 2.png">
 		<width>16</width>
 		<height>16</height>
-		<columns offset="48">6</columns>
-		<rows offset="16">2</rows>
+		<columns offset="16">6</columns>
+		<rows offset="48">2</rows>
 	</avatar>
 	<avatar name="Green JellyBot" image="Old enemies 2.png">
 		<width>16</width>
 		<height>16</height>
-		<columns offset="80">6</columns>
-		<rows offset="16">2</rows>
+		<columns offset="16">6</columns>
+		<rows offset="80">2</rows>
 	</avatar>
 </avatars>
