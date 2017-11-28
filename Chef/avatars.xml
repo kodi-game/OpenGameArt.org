@@ -5,20 +5,20 @@
 	<license>Creative Commons 3.0 Attribution License</license>
 	<avatar name="Chef 1" image="Chef A1.png">
 		<width>16</width>
-		<height>16</height>
-		<columns offset="auto">6</columns>
-		<rows offset="auto">5</rows>
+		<height>20</height>
+		<columns offset="16">6</columns>
+		<rows offset="6">5</rows>
 	</avatar>
 	<avatar name="Chef 2" image="Chef B1.png">
 		<width>16</width>
-		<height>16</height>
-		<columns offset="auto">6</columns>
-		<rows offset="auto">5</rows>
+		<height>20</height>
+		<columns offset="16">6</columns>
+		<rows offset="6">5</rows>
 	</avatar>
 	<avatar name="Chef 3" image="Chef W1.png">
 		<width>16</width>
-		<height>16</height>
-		<columns offset="auto">6</columns>
-		<rows offset="auto">5</rows>
+		<height>20</height>
+		<columns offset="16">6</columns>
+		<rows offset="6">5</rows>
 	</avatar>
 </avatars>
