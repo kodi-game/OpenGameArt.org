@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<avatars>
+	<author>Umz</author>
+	<source>https://opengameart.org/content/icy-demon-animated-classic-hero-edit</source>
+	<license>Creative Commons 3.0 Attribution License</license>
+	<avatar name="Icy Demon" image="IcyDemon-Sheet.png">
+		<width>16</width>
+		<height>16</height>
+		<columns offset="auto">6</columns>
+		<rows offset="auto">5</rows>
+	</avatar>
+</avatars>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<avatars>
+	<author>GrafxKid</author>
+	<source>https://opengameart.org/content/bushly-and-princess-sera</source>
+	<license>Creative Commons 3.0 Attribution License</license>
+	<avatar name="Bushly" image="Bushly_PrincessSera.png">
+		<width>16</width>
+		<height>16</height>
+		<columns offset="16">6</columns>
+		<rows offset="16">3</rows>
+	</avatar>
+	<avatar name="Pricess Sera" image="Bushly_PrincessSera.png">
+		<width>16</width>
+		<height>32</height>
+		<columns offset="auto">12</columns>
+		<rows offset="16">3</rows>
+	</avatar>
+</avatars>

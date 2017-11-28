@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<avatars>
+	<author>DezrasDragons</author>
+	<source>https://opengameart.org/content/android-robot-animated</source>
+	<license>Creative Commons 3.0 Attribution License</license>
+	<disclaimer>Art by DezrasDragons based on an original character design by Jason-Em and the Android robot. The Android robot is modified from work created and shared by Google.</disclaimer>
+	<avatar name="Android" image="Android.png">
+		<width>40</width>
+		<height>29</height>
+		<columns offset="0">6</columns>
+		<rows offset="0">6</rows>
+		<border>1</border>
+	</avatar>
+</avatars>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<avatars>
+	<author>Justin Nichol</author>
+	<source>https://opengameart.org/content/micro-character-dark-elf</source>
+	<license>Creative Commons 3.0 Attribution License</license>
+	<avatar name="Dark Elf" image="DarkElf_Basics.png">
+		<width>20</width>
+		<height>20</height>
+		<columns offset="0">9</columns>
+		<rows offset="0">2</rows>
+	</avatar>
+</avatars>

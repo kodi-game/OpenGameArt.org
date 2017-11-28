@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<avatars>
+	<author>Disthron</author>
+	<source>https://opengameart.org/content/mr-necromancer-man-animated</source>
+	<license>Creative Commons 3.0 Attribution License</license>
+	<avatar name="Necromancer" image="YeOldyNecroGuy.png">
+		<width>auto</width>
+		<height>auto</height>
+		<columns offset="auto">6</columns>
+		<rows offset="auto">3</rows>
+	</avatar>
+</avatars>

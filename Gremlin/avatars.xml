@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<avatars>
+	<author>Umz</author>
+	<source>https://opengameart.org/content/gremlin-animated-classic-hero-edit</source>
+	<license>Creative Commons 3.0 Attribution License</license>
+	<avatar name="Gremlin" image="Gremlin Sheet.png">
+		<width>16</width>
+		<height>16</height>
+		<columns offset="1">6</columns>
+		<rows offset="1">5</rows>
+		<border>5</border>
+	</avatar>
+</avatars>

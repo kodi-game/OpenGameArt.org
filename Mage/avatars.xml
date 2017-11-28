@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<avatars>
+	<author>saint11</author>
+	<source>https://opengameart.org/content/16x16-mage</source>
+	<license>Creative Commons 3.0 Attribution License</license>
+	<avatar name="Mage" image="mage.png">
+		<width>16</width>
+		<height>16</height>
+		<columns offset="0">8</columns>
+		<rows offset="0">2</rows>
+	</avatar>
+</avatars>

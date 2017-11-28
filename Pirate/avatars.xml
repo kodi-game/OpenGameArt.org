@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<avatars>
+	<author>DezrasDragons</author>
+	<source>https://opengameart.org/content/classic-pirate-captain-animated</source>
+	<license>Creative Commons 3.0 Attribution License</license>
+	<avatar name="PegLeg" image="classic-pegleg.png">
+		<width>40</width>
+		<height>29</height>
+		<columns offset="0">5</columns>
+		<rows offset="0">6</rows>
+		<border>1</border>
+	</avatar>
+</avatars>
