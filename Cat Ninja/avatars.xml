@@ -6,7 +6,7 @@
 	<avatar name="Neko" image="Neko.png">
 		<width>16</width>
 		<height>16</height>
-		<columns offset="auto">6</columns>
-		<rows offset="auto">5</rows>
+		<columns offset="16">6</columns>
+		<rows offset="16">5</rows>
 	</avatar>
 </avatars>
