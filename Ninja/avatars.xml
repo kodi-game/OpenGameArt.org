@@ -9,5 +9,6 @@
 		<columns offset="0">5</columns>
 		<rows offset="0">6</rows>
 		<border>1</border>
+		<orientation>vertical</orientation>
 	</avatar>
 </avatars>
