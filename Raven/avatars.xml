@@ -6,9 +6,11 @@
 		<license>Creative Commons 3.0 Attribution License</license>
 	</info>
 	<avatar name="Raven" image="CharacterFull.png">
-		<width>16</width>
-		<height>18</height>
-		<columns offset="0">9</columns>
-		<rows offset="0">4</rows>
+		<sheet>
+			<width>16</width>
+			<height>18</height>
+			<columns offset="0">9</columns>
+			<rows offset="0">4</rows>
+		</sheet>
 	</avatar>
 </avatars>

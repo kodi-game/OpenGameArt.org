@@ -6,9 +6,11 @@
 		<license>Creative Commons 3.0 Attribution License</license>
 	</info>
 	<avatar name="Mr. Man" image="Old hero.png">
-		<width>16</width>
-		<height>16</height>
-		<columns offset="16">6</columns>
-		<rows offset="16">5</rows>
+		<sheet>
+			<width>16</width>
+			<height>16</height>
+			<columns offset="16">6</columns>
+			<rows offset="16">5</rows>
+		</sheet>
 	</avatar>
 </avatars>

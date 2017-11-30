@@ -6,11 +6,13 @@
 		<license>Creative Commons 3.0 Attribution License</license>
 	</info>
 	<avatar name="PegLeg" image="classic-pegleg.png">
-		<width>40</width>
-		<height>29</height>
-		<columns offset="0">5</columns>
-		<rows offset="0">6</rows>
-		<border>1</border>
-		<orientation>vertical</orientation>
+		<sheet>
+			<width>40</width>
+			<height>29</height>
+			<columns offset="0">5</columns>
+			<rows offset="0">6</rows>
+			<border>1</border>
+			<orientation>vertical</orientation>
+		</sheet>
 	</avatar>
 </avatars>

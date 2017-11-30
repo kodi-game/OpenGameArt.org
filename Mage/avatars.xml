@@ -6,9 +6,11 @@
 		<license>Creative Commons 3.0 Attribution License</license>
 	</info>
 	<avatar name="Mage" image="mage.png">
-		<width>16</width>
-		<height>16</height>
-		<columns offset="0">8</columns>
-		<rows offset="0">2</rows>
+		<sheet>
+			<width>16</width>
+			<height>16</height>
+			<columns offset="0">8</columns>
+			<rows offset="0">2</rows>
+		</sheet>
 	</avatar>
 </avatars>

@@ -6,27 +6,35 @@
 		<license>Creative Commons 3.0 Attribution License</license>
 	</info>
 	<avatar name="Green Baddie" image="Old enemies.png">
-		<width>16</width>
-		<height>16</height>
-		<columns offset="16">6</columns>
-		<rows offset="16">1</rows>
+		<sheet>
+			<width>16</width>
+			<height>16</height>
+			<columns offset="16">6</columns>
+			<rows offset="16">1</rows>
+		</sheet>
 	</avatar>
 	<avatar name="Round Baddie" image="Old enemies.png">
-		<width>16</width>
-		<height>16</height>
-		<columns offset="16">6</columns>
-		<rows offset="48">1</rows>
+		<sheet>
+			<width>16</width>
+			<height>16</height>
+			<columns offset="16">6</columns>
+			<rows offset="48">1</rows>
+		</sheet>
 	</avatar>
 	<avatar name="ChuChu" image="Old enemies.png">
-		<width>16</width>
-		<height>16</height>
-		<columns offset="16">6</columns>
-		<rows offset="80">1</rows>
+		<sheet>
+			<width>16</width>
+			<height>16</height>
+			<columns offset="16">6</columns>
+			<rows offset="80">1</rows>
+		</sheet>
 	</avatar>
 	<avatar name="Bird" image="Old enemies.png">
-		<width>16</width>
-		<height>16</height>
-		<columns offset="16">7</columns>
-		<rows offset="112">1</rows>
+		<sheet>
+			<width>16</width>
+			<height>16</height>
+			<columns offset="16">7</columns>
+			<rows offset="112">1</rows>
+		</sheet>
 	</avatar>
 </avatars>

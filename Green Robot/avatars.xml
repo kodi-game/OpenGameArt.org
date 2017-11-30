@@ -6,9 +6,11 @@
 		<license>Creative Commons 3.0 Attribution License</license>
 	</info>
 	<avatar name="Green Robot" image="Green bot sprites.png">
-		<width>16</width>
-		<height>16</height>
-		<columns offset="16">7</columns>
-		<rows offset="16">4</rows>
+		<sheet>
+			<width>16</width>
+			<height>16</height>
+			<columns offset="16">7</columns>
+			<rows offset="16">4</rows>
+		</sheet>
 	</avatar>
 </avatars>

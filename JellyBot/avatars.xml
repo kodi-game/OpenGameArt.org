@@ -6,21 +6,27 @@
 		<license>Creative Commons 3.0 Attribution License</license>
 	</info>
 	<avatar name="Blue JellyBot" image="Old enemies 2.png">
-		<width>16</width>
-		<height>16</height>
-		<columns offset="16">6</columns>
-		<rows offset="16">2</rows>
+		<sheet>
+			<width>16</width>
+			<height>16</height>
+			<columns offset="16">6</columns>
+			<rows offset="16">2</rows>
+		</sheet>
 	</avatar>
 	<avatar name="Red JellyBot" image="Old enemies 2.png">
-		<width>16</width>
-		<height>16</height>
-		<columns offset="16">6</columns>
-		<rows offset="48">2</rows>
+		<sheet>
+			<width>16</width>
+			<height>16</height>
+			<columns offset="16">6</columns>
+			<rows offset="48">2</rows>
+		</sheet>
 	</avatar>
 	<avatar name="Green JellyBot" image="Old enemies 2.png">
-		<width>16</width>
-		<height>16</height>
-		<columns offset="16">6</columns>
-		<rows offset="80">2</rows>
+		<sheet>
+			<width>16</width>
+			<height>16</height>
+			<columns offset="16">6</columns>
+			<rows offset="80">2</rows>
+		</sheet>
 	</avatar>
 </avatars>
