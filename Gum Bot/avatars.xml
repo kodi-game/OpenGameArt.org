@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <avatars>
-	<author>GrafxKid</author>
-	<source>https://opengameart.org/content/gum-bot-sprites</source>
-	<license>Creative Commons 3.0 Attribution License</license>
+	<info>
+		<author>GrafxKid</author>
+		<source>https://opengameart.org/content/gum-bot-sprites</source>
+		<license>Creative Commons 3.0 Attribution License</license>
+	</info>
 	<avatar name="Gum Bot" image="Gum Bot sprites.png">
 		<width>32</width>
 		<height>32</height>

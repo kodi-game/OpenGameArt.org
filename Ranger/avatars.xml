@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <avatars>
-	<author>DezrasDragons</author>
-	<source>https://opengameart.org/content/android-robot-animated</source>
-	<license>Creative Commons 3.0 Attribution License</license>
+	<info>
+		<author>DezrasDragons</author>
+		<source>https://opengameart.org/content/android-robot-animated</source>
+		<license>Creative Commons 3.0 Attribution License</license>
+	</info>
 	<avatar name="Ranger" image="Archer.png">
 		<width>40</width>
 		<height>29</height>

@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <avatars>
-	<author>DezrasDragons</author>
-	<source>https://opengameart.org/content/android-robot-animated</source>
-	<license>Creative Commons 3.0 Attribution License</license>
-	<disclaimer>Art by DezrasDragons based on an original character design by Jason-Em and the Android robot. The Android robot is modified from work created and shared by Google.</disclaimer>
+	<info>
+		<author>DezrasDragons</author>
+		<source>https://opengameart.org/content/android-robot-animated</source>
+		<license>Creative Commons 3.0 Attribution License</license>
+		<disclaimer>Art based on an original character design by Jason-Em and the Android robot. The Android robot is modified from work created and shared by Google.</disclaimer>
+	</info>
 	<avatar name="Android" image="Android.png">
 		<width>40</width>
 		<height>29</height>

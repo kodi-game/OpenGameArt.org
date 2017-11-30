@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <avatars>
-	<author>Umz</author>
-	<source>https://opengameart.org/content/neko-cat-fighter-animated-jason-em-style</source>
-	<license>Creative Commons 3.0 Attribution License</license>
+	<info>
+		<author>Umz</author>
+		<source>https://opengameart.org/content/neko-cat-fighter-animated-jason-em-style</source>
+		<license>Creative Commons 3.0 Attribution License</license>
+	</info>
 	<avatar name="Neko" image="Neko.png">
 		<width>16</width>
 		<height>16</height>

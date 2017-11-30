@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <avatars>
-	<author>Umz</author>
-	<source>https://opengameart.org/content/chef-animated-classic-hero-edit</source>
-	<license>Creative Commons 3.0 Attribution License</license>
+	<info>
+		<author>Umz</author>
+		<source>https://opengameart.org/content/chef-animated-classic-hero-edit</source>
+		<license>Creative Commons 3.0 Attribution License</license>
+	</info>
 	<avatar name="Chef 1" image="Chef A1.png">
 		<width>16</width>
 		<height>20</height>

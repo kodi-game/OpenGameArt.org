@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <avatars>
-	<author>DezrasDragons</author>
-	<source>https://opengameart.org/content/viking-shieldmaiden-animated</source>
-	<license>Creative Commons 3.0 Attribution License</license>
+	<info>
+		<author>DezrasDragons</author>
+		<source>https://opengameart.org/content/viking-shieldmaiden-animated</source>
+		<license>Creative Commons 3.0 Attribution License</license>
+	</info>
 	<avatar name="Viking Maiden" image="Valkyrie.png">
 		<width>40</width>
 		<height>29</height>
