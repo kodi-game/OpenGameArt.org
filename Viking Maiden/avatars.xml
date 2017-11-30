@@ -5,8 +5,9 @@
 		<source>https://opengameart.org/content/viking-shieldmaiden-animated</source>
 		<license>Creative Commons 3.0 Attribution License</license>
 	</info>
-	<avatar name="Viking Maiden" image="Valkyrie.png">
+	<avatar name="Viking Maiden">
 		<sheet>
+			<image>Valkyrie.png</image>
 			<width>40</width>
 			<height>29</height>
 			<columns offset="0">6</columns>

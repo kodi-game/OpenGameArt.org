@@ -5,8 +5,9 @@
 		<source>https://opengameart.org/content/micro-character-dark-elf</source>
 		<license>Creative Commons 3.0 Attribution License</license>
 	</info>
-	<avatar name="Dark Elf" image="DarkElf_Basics.png">
+	<avatar name="Dark Elf">
 		<sheet>
+			<image>DarkElf_Basics.png</image>
 			<width>20</width>
 			<height>20</height>
 			<columns offset="0">9</columns>

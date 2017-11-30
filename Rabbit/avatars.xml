@@ -6,8 +6,9 @@
 		<license>Creative Commons 3.0 Attribution License</license>
 		<disclaimer>Art based on an original character by the OpenSurge Team, as commissioned by OpenGameArt.org and drawn by Stephen &quot;Redshrike&quot; Challener; and an original character design by Jason-Em.</disclaimer>
 	</info>
-	<avatar name="Surge" image="Surge.png">
+	<avatar name="Surge">
 		<sheet>
+			<image>Surge.png</image>
 			<width>40</width>
 			<height>29</height>
 			<columns offset="0">6</columns>

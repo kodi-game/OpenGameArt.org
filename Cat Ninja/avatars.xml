@@ -5,8 +5,9 @@
 		<source>https://opengameart.org/content/neko-cat-fighter-animated-jason-em-style</source>
 		<license>Creative Commons 3.0 Attribution License</license>
 	</info>
-	<avatar name="Neko" image="Neko.png">
+	<avatar name="Neko">
 		<sheet>
+			<image>Neko.png</image>
 			<width>16</width>
 			<height>16</height>
 			<columns offset="16">6</columns>

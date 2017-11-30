@@ -5,16 +5,18 @@
 		<source>https://opengameart.org/content/bushly-and-princess-sera</source>
 		<license>Creative Commons 3.0 Attribution License</license>
 	</info>
-	<avatar name="Bushly" image="Bushly_PrincessSera.png">
+	<avatar name="Bushly">
 		<sheet>
+			<image>Bushly_PrincessSera.png</image>
 			<width>16</width>
 			<height>16</height>
 			<columns offset="16">6</columns>
 			<rows offset="16">3</rows>
 		</sheet>
 	</avatar>
-	<avatar name="Princess Sera" image="Bushly_PrincessSera.png">
+	<avatar name="Princess Sera">
 		<sheet>
+			<image>Bushly_PrincessSera.png</image>
 			<width>16</width>
 			<height>32</height>
 			<columns offset="16">12</columns>

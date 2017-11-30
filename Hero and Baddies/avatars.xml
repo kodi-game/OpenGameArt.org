@@ -5,24 +5,27 @@
 		<source>https://opengameart.org/content/classic-hero-and-baddies-pack</source>
 		<license>Creative Commons 3.0 Attribution License</license>
 	</info>
-	<avatar name="Green Hero" image="Standard sprites upd.png">
+	<avatar name="Green Hero">
 		<sheet>
+			<image>Standard sprites upd.png</image>
 			<width>16</width>
 			<height>16</height>
 			<columns offset="16">5</columns>
 			<rows offset="16">5</rows>
 		</sheet>
 	</avatar>
-	<avatar name="Red Enemy" image="Standard sprites upd.png">
+	<avatar name="Red Enemy">
 		<sheet>
+			<image>Standard sprites upd.png</image>
 			<width>16</width>
 			<height>16</height>
 			<columns offset="112">6</columns>
 			<rows offset="16">2</rows>
 		</sheet>
 	</avatar>
-	<avatar name="Blue Enemy" image="Standard sprites upd.png">
+	<avatar name="Blue Enemy">
 		<sheet>
+			<image>Standard sprites upd.png</image>
 			<width>16</width>
 			<height>16</height>
 			<columns offset="112">6</columns>

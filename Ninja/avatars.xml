@@ -5,8 +5,9 @@
 		<source>https://opengameart.org/content/ninja-animated</source>
 		<license>Creative Commons 3.0 Attribution License</license>
 	</info>
-	<avatar name="Ninja" image="Ninja.png">
+	<avatar name="Ninja">
 		<sheet>
+			<image>Ninja.png</image>
 			<width>40</width>
 			<height>29</height>
 			<columns offset="0">5</columns>

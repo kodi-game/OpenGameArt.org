@@ -5,8 +5,9 @@
 		<source>https://opengameart.org/content/classic-hero</source>
 		<license>Creative Commons 3.0 Attribution License</license>
 	</info>
-	<avatar name="Mr. Man" image="Old hero.png">
+	<avatar name="Mr. Man">
 		<sheet>
+			<image>Old hero.png</image>
 			<width>16</width>
 			<height>16</height>
 			<columns offset="16">6</columns>

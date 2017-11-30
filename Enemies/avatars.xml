@@ -5,32 +5,36 @@
 		<source>https://opengameart.org/content/platformer-baddies</source>
 		<license>Creative Commons 3.0 Attribution License</license>
 	</info>
-	<avatar name="Green Baddie" image="Old enemies.png">
+	<avatar name="Green Baddie">
 		<sheet>
+			<image>Old enemies.png</image>
 			<width>16</width>
 			<height>16</height>
 			<columns offset="16">6</columns>
 			<rows offset="16">1</rows>
 		</sheet>
 	</avatar>
-	<avatar name="Round Baddie" image="Old enemies.png">
+	<avatar name="Round Baddie">
 		<sheet>
+			<image>Old enemies.png</image>
 			<width>16</width>
 			<height>16</height>
 			<columns offset="16">6</columns>
 			<rows offset="48">1</rows>
 		</sheet>
 	</avatar>
-	<avatar name="ChuChu" image="Old enemies.png">
+	<avatar name="ChuChu">
 		<sheet>
+			<image>Old enemies.png</image>
 			<width>16</width>
 			<height>16</height>
 			<columns offset="16">6</columns>
 			<rows offset="80">1</rows>
 		</sheet>
 	</avatar>
-	<avatar name="Bird" image="Old enemies.png">
+	<avatar name="Bird">
 		<sheet>
+			<image>Old enemies.png</image>
 			<width>16</width>
 			<height>16</height>
 			<columns offset="16">7</columns>

@@ -5,8 +5,9 @@
 		<source>https://opengameart.org/content/gentleman-spy-animated</source>
 		<license>Creative Commons 3.0 Attribution License</license>
 	</info>
-	<avatar name="Gentleman Spy" image="Tuxedo.png">
+	<avatar name="Gentleman Spy">
 		<sheet>
+			<image>Tuxedo.png</image>
 			<width>40</width>
 			<height>29</height>
 			<columns offset="0">6</columns>

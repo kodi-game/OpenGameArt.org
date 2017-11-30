@@ -5,8 +5,9 @@
 		<source>https://opengameart.org/content/gum-bot-sprites</source>
 		<license>Creative Commons 3.0 Attribution License</license>
 	</info>
-	<avatar name="Gum Bot" image="Gum Bot sprites.png">
+	<avatar name="Gum Bot">
 		<sheet>
+			<image>Gum Bot sprites.png</image>
 			<width>32</width>
 			<height>32</height>
 			<columns offset="32">6</columns>

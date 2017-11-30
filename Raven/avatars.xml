@@ -5,8 +5,9 @@
 		<source>https://opengameart.org/content/raven-16x18</source>
 		<license>Creative Commons 3.0 Attribution License</license>
 	</info>
-	<avatar name="Raven" image="CharacterFull.png">
+	<avatar name="Raven">
 		<sheet>
+			<image>CharacterFull.png</image>
 			<width>16</width>
 			<height>18</height>
 			<columns offset="0">9</columns>

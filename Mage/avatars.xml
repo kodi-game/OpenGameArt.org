@@ -5,8 +5,9 @@
 		<source>https://opengameart.org/content/16x16-mage</source>
 		<license>Creative Commons 3.0 Attribution License</license>
 	</info>
-	<avatar name="Mage" image="mage.png">
+	<avatar name="Mage">
 		<sheet>
+			<image>mage.png</image>
 			<width>16</width>
 			<height>16</height>
 			<columns offset="0">8</columns>

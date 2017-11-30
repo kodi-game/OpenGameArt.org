@@ -5,8 +5,9 @@
 		<source>https://opengameart.org/content/samurai-animated</source>
 		<license>Creative Commons 3.0 Attribution License</license>
 	</info>
-	<avatar name="Samurai" image="Samurai.png">
+	<avatar name="Samurai">
 		<sheet>
+			<image>Samurai.png</image>
 			<width>40</width>
 			<height>29</height>
 			<columns offset="0">6</columns>

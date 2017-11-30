@@ -5,8 +5,9 @@
 		<source>https://opengameart.org/content/green-robot</source>
 		<license>Creative Commons 3.0 Attribution License</license>
 	</info>
-	<avatar name="Green Robot" image="Green bot sprites.png">
+	<avatar name="Green Robot">
 		<sheet>
+			<image>Green bot sprites.png</image>
 			<width>16</width>
 			<height>16</height>
 			<columns offset="16">7</columns>
