@@ -23,34 +23,48 @@
 				<frame>4</frame>
 			</action>
 			<action name="run">
-				<frame>6</frame>
 				<frame>7</frame>
 				<frame>8</frame>
 				<frame>9</frame>
 				<frame>10</frame>
 				<frame>11</frame>
-			</action>
-			<action name="jump">
 				<frame>12</frame>
 			</action>
-			<action name="crouch">
+			<action name="jump">
 				<frame>13</frame>
 			</action>
-			<action name="damaged">
+			<action name="land">
 				<frame>14</frame>
-			</action>
-			<action name="victory">
 				<frame>15</frame>
+			</action>
+			<action name="fall">
 				<frame>16</frame>
 			</action>
-			<action name="shoot">
+			<action name="unknown">
 				<frame>17</frame>
 				<frame>18</frame>
 			</action>
-			<action name="attack">
+			<action name="shoot">
 				<frame>19</frame>
 				<frame>20</frame>
+				<frame>21</frame>
+			</action>
+			<action name="attack">
+				<frame>22</frame>
+				<frame>23</frame>
+			</action>
+			<action name="damaged">
+				<frame>26</frame>
+			</action>
+			<action name="victory">
+				<frame>27</frame>
+			</action>
+			<action name="crouch">
+				<frame>28</frame>
 			</action>
 		</actions>
+		<assets>
+			<frame>25</frame>
+		</assets>
 	</avatar>
 </avatars>
