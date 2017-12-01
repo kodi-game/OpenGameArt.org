@@ -15,5 +15,42 @@
 			<border>1</border>
 			<orientation>vertical</orientation>
 		</sheet>
+		<actions>
+			<action name="idle">
+				<frame>1</frame>
+				<frame>2</frame>
+				<frame>3</frame>
+				<frame>4</frame>
+			</action>
+			<action name="run">
+				<frame>6</frame>
+				<frame>7</frame>
+				<frame>8</frame>
+				<frame>9</frame>
+				<frame>10</frame>
+				<frame>11</frame>
+			</action>
+			<action name="jump">
+				<frame>12</frame>
+			</action>
+			<action name="crouch">
+				<frame>13</frame>
+			</action>
+			<action name="damaged">
+				<frame>14</frame>
+			</action>
+			<action name="victory">
+				<frame>15</frame>
+				<frame>16</frame>
+			</action>
+			<action name="shoot">
+				<frame>17</frame>
+				<frame>18</frame>
+			</action>
+			<action name="attack">
+				<frame>19</frame>
+				<frame>20</frame>
+			</action>
+		</actions>
 	</avatar>
 </avatars>
