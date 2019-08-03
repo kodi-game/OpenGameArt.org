@@ -1,0 +1,103 @@
+{
+    "avatars": {
+        "info": {
+            "author": "DezrasDragons",
+            "source": "https://opengameart.org/content/classic-pirate-captain-animated",
+            "license": "Creative Commons 3.0 Attribution License"
+        },
+        "avatar": {
+            "@name": "PegLeg",
+            "sheet": {
+                "image": "classic-pegleg.png",
+                "width": "40",
+                "height": "29",
+                "columns": {
+                    "@offset": "0",
+                    "#text": "5"
+                },
+                "rows": {
+                    "@offset": "0",
+                    "#text": "6"
+                },
+                "border": "1",
+                "orientation": "vertical"
+            },
+            "actions": {
+                "action": [
+                    {
+                        "@name": "idle",
+                        "frame": [
+                            "1",
+                            "2",
+                            "3",
+                            "4"
+                        ]
+                    },
+                    {
+                        "@name": "run",
+                        "frame": [
+                            "7",
+                            "8",
+                            "9",
+                            "10",
+                            "11",
+                            "12"
+                        ]
+                    },
+                    {
+                        "@name": "jump",
+                        "frame": "13"
+                    },
+                    {
+                        "@name": "land",
+                        "frame": [
+                            "14",
+                            "15"
+                        ]
+                    },
+                    {
+                        "@name": "fall",
+                        "frame": "16"
+                    },
+                    {
+                        "@name": "unknown",
+                        "frame": [
+                            "17",
+                            "18"
+                        ]
+                    },
+                    {
+                        "@name": "shoot",
+                        "frame": [
+                            "19",
+                            "20",
+                            "21"
+                        ]
+                    },
+                    {
+                        "@name": "attack",
+                        "frame": [
+                            "22",
+                            "23"
+                        ]
+                    },
+                    {
+                        "@name": "damaged",
+                        "frame": "26"
+                    },
+                    {
+                        "@name": "victory",
+                        "frame": "27"
+                    },
+                    {
+                        "@name": "crouch",
+                        "frame": "28"
+                    }
+                ]
+            },
+            "assets": {
+                "frame": "25"
+            }
+        }
+    }
+}

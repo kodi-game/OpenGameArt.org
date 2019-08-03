@@ -1,0 +1,26 @@
+{
+    "avatars": {
+        "info": {
+            "author": "Justin Nichol",
+            "source": "https://opengameart.org/content/micro-character-dark-elf",
+            "license": "Creative Commons 3.0 Attribution License"
+        },
+        "avatar": {
+            "@name": "Dark Elf",
+            "sheet": {
+                "image": "DarkElf_Basics.png",
+                "width": "20",
+                "height": "20",
+                "columns": {
+                    "@offset": "0",
+                    "#text": "9"
+                },
+                "rows": {
+                    "@offset": "0",
+                    "#text": "2"
+                },
+                "border": "0"
+            }
+        }
+    }
+}

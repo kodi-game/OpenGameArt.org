@@ -1,0 +1,94 @@
+{
+    "avatars": {
+        "info": {
+            "author": "Umz",
+            "source": "https://opengameart.org/content/neko-cat-fighter-animated-jason-em-style",
+            "license": "Creative Commons 3.0 Attribution License"
+        },
+        "avatar": {
+            "@name": "Neko",
+            "sheet": {
+                "image": "Neko.png",
+                "width": "16",
+                "height": "16",
+                "columns": {
+                    "@offset": "16",
+                    "#text": "6"
+                },
+                "rows": {
+                    "@offset": "16",
+                    "#text": "5"
+                }
+            },
+            "actions": {
+                "action": [
+                    {
+                        "@name": "idle",
+                        "frame": [
+                            "1",
+                            "2",
+                            "3",
+                            "4"
+                        ]
+                    },
+                    {
+                        "@name": "surprised",
+                        "frame": "5"
+                    },
+                    {
+                        "@name": "run",
+                        "frame": [
+                            "7",
+                            "8",
+                            "9",
+                            "10",
+                            "11",
+                            "12"
+                        ]
+                    },
+                    {
+                        "@name": "jump",
+                        "frame": "13"
+                    },
+                    {
+                        "@name": "land",
+                        "frame": [
+                            "14",
+                            "15"
+                        ]
+                    },
+                    {
+                        "@name": "kick",
+                        "frame": "16"
+                    },
+                    {
+                        "@name": "victory",
+                        "frame": "18"
+                    },
+                    {
+                        "@name": "swim",
+                        "frame": [
+                            "19",
+                            "20",
+                            "21",
+                            "22",
+                            "23",
+                            "24"
+                        ]
+                    },
+                    {
+                        "@name": "punch",
+                        "frame": [
+                            "25",
+                            "26",
+                            "27"
+                        ]
+                    }
+                ]
+            },
+            "assets": {
+                "frame": "6"
+            }
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "avatars": {
+        "info": {
+            "author": "GrafxKid",
+            "source": "https://opengameart.org/content/jellybot-enemies",
+            "license": "Creative Commons 3.0 Attribution License"
+        },
+        "avatar": [
+            {
+                "@name": "Blue JellyBot",
+                "sheet": {
+                    "image": "Old enemies 2.png",
+                    "width": "16",
+                    "height": "16",
+                    "columns": {
+                        "@offset": "16",
+                        "#text": "6"
+                    },
+                    "rows": {
+                        "@offset": "16",
+                        "#text": "2"
+                    }
+                }
+            },
+            {
+                "@name": "Red JellyBot",
+                "sheet": {
+                    "image": "Old enemies 2.png",
+                    "width": "16",
+                    "height": "16",
+                    "columns": {
+                        "@offset": "16",
+                        "#text": "6"
+                    },
+                    "rows": {
+                        "@offset": "48",
+                        "#text": "2"
+                    }
+                }
+            },
+            {
+                "@name": "Green JellyBot",
+                "sheet": {
+                    "image": "Old enemies 2.png",
+                    "width": "16",
+                    "height": "16",
+                    "columns": {
+                        "@offset": "16",
+                        "#text": "6"
+                    },
+                    "rows": {
+                        "@offset": "80",
+                        "#text": "2"
+                    }
+                }
+            }
+        ]
+    }
+}

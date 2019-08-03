@@ -1,0 +1,25 @@
+{
+    "avatars": {
+        "info": {
+            "author": "saint11",
+            "source": "https://opengameart.org/content/16x16-mage",
+            "license": "Creative Commons 3.0 Attribution License"
+        },
+        "avatar": {
+            "@name": "Mage",
+            "sheet": {
+                "image": "mage.png",
+                "width": "16",
+                "height": "16",
+                "columns": {
+                    "@offset": "0",
+                    "#text": "8"
+                },
+                "rows": {
+                    "@offset": "0",
+                    "#text": "2"
+                }
+            }
+        }
+    }
+}

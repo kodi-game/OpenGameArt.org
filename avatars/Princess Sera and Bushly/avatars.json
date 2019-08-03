@@ -1,0 +1,43 @@
+{
+    "avatars": {
+        "info": {
+            "author": "GrafxKid",
+            "source": "https://opengameart.org/content/bushly-and-princess-sera",
+            "license": "Creative Commons 3.0 Attribution License"
+        },
+        "avatar": [
+            {
+                "@name": "Bushly",
+                "sheet": {
+                    "image": "Bushly_PrincessSera.png",
+                    "width": "16",
+                    "height": "16",
+                    "columns": {
+                        "@offset": "16",
+                        "#text": "6"
+                    },
+                    "rows": {
+                        "@offset": "16",
+                        "#text": "3"
+                    }
+                }
+            },
+            {
+                "@name": "Princess Sera",
+                "sheet": {
+                    "image": "Bushly_PrincessSera.png",
+                    "width": "16",
+                    "height": "32",
+                    "columns": {
+                        "@offset": "16",
+                        "#text": "12"
+                    },
+                    "rows": {
+                        "@offset": "68",
+                        "#text": "3"
+                    }
+                }
+            }
+        ]
+    }
+}

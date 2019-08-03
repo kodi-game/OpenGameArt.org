@@ -1,0 +1,125 @@
+{
+    "avatars": {
+        "info": {
+            "author": "DezrasDragons",
+            "source": "https://opengameart.org/content/samurai-animated",
+            "license": "Creative Commons 3.0 Attribution License"
+        },
+        "avatar": {
+            "@name": "Samurai",
+            "sheet": {
+                "image": "Samurai.png",
+                "width": "40",
+                "height": "29",
+                "columns": {
+                    "@offset": "0",
+                    "#text": "6"
+                },
+                "rows": {
+                    "@offset": "0",
+                    "#text": "8"
+                },
+                "border": "1",
+                "orientation": "vertical"
+            },
+            "actions": {
+                "action": [
+                    {
+                        "@name": "idle",
+                        "frame": [
+                            "1",
+                            "2",
+                            "3",
+                            "4"
+                        ]
+                    },
+                    {
+                        "@name": "run",
+                        "frame": [
+                            "9",
+                            "10",
+                            "11",
+                            "12",
+                            "13",
+                            "14"
+                        ]
+                    },
+                    {
+                        "@name": "jump",
+                        "frame": "17"
+                    },
+                    {
+                        "@name": "land",
+                        "frame": [
+                            "18",
+                            "19"
+                        ]
+                    },
+                    {
+                        "@name": "fall",
+                        "frame": "20"
+                    },
+                    {
+                        "@name": "punch",
+                        "frame": [
+                            "25",
+                            "26",
+                            "27",
+                            "28"
+                        ]
+                    },
+                    {
+                        "@name": "attack",
+                        "frame": [
+                            "29",
+                            "30",
+                            "31",
+                            "32"
+                        ]
+                    },
+                    {
+                        "@name": "swim",
+                        "frame": [
+                            "33",
+                            "34",
+                            "35",
+                            "36",
+                            "37",
+                            "38"
+                        ]
+                    },
+                    {
+                        "@name": "surprise",
+                        "frame": "42"
+                    },
+                    {
+                        "@name": "victory",
+                        "frame": "43"
+                    },
+                    {
+                        "@name": "crouch",
+                        "frame": "44"
+                    }
+                ]
+            },
+            "assets": {
+                "frame": [
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "15",
+                    "16",
+                    "21",
+                    "22",
+                    "23",
+                    "24",
+                    "39",
+                    "40",
+                    "41",
+                    "45"
+                ]
+            }
+        }
+    }
+}

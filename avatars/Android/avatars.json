@@ -1,0 +1,28 @@
+{
+    "avatars": {
+        "info": {
+            "author": "DezrasDragons",
+            "source": "https://opengameart.org/content/android-robot-animated",
+            "license": "Creative Commons 3.0 Attribution License",
+            "disclaimer": "Art based on an original character design by Jason-Em and the Android robot. The Android robot is modified from work created and shared by Google."
+        },
+        "avatar": {
+            "@name": "Android",
+            "sheet": {
+                "image": "Android.png",
+                "width": "40",
+                "height": "29",
+                "columns": {
+                    "@offset": "0",
+                    "#text": "6"
+                },
+                "rows": {
+                    "@offset": "0",
+                    "#text": "6"
+                },
+                "border": "1",
+                "orientation": "vertical"
+            }
+        }
+    }
+}

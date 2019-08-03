@@ -1,0 +1,75 @@
+{
+    "avatars": {
+        "info": {
+            "author": "GrafxKid",
+            "source": "https://opengameart.org/content/platformer-baddies",
+            "license": "Creative Commons 3.0 Attribution License"
+        },
+        "avatar": [
+            {
+                "@name": "Green Baddie",
+                "sheet": {
+                    "image": "Old enemies.png",
+                    "width": "16",
+                    "height": "16",
+                    "columns": {
+                        "@offset": "16",
+                        "#text": "6"
+                    },
+                    "rows": {
+                        "@offset": "16",
+                        "#text": "1"
+                    }
+                }
+            },
+            {
+                "@name": "Round Baddie",
+                "sheet": {
+                    "image": "Old enemies.png",
+                    "width": "16",
+                    "height": "16",
+                    "columns": {
+                        "@offset": "16",
+                        "#text": "6"
+                    },
+                    "rows": {
+                        "@offset": "48",
+                        "#text": "1"
+                    }
+                }
+            },
+            {
+                "@name": "ChuChu",
+                "sheet": {
+                    "image": "Old enemies.png",
+                    "width": "16",
+                    "height": "16",
+                    "columns": {
+                        "@offset": "16",
+                        "#text": "6"
+                    },
+                    "rows": {
+                        "@offset": "80",
+                        "#text": "1"
+                    }
+                }
+            },
+            {
+                "@name": "Bird",
+                "sheet": {
+                    "image": "Old enemies.png",
+                    "width": "16",
+                    "height": "16",
+                    "columns": {
+                        "@offset": "16",
+                        "#text": "7"
+                    },
+                    "rows": {
+                        "@offset": "112",
+                        "#text": "1"
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "avatars": {
+        "info": {
+            "author": "DezrasDragons",
+            "source": "https://opengameart.org/content/rabbit-surge-animated",
+            "license": "Creative Commons 3.0 Attribution License",
+            "disclaimer": "Art based on an original character by the OpenSurge Team, as commissioned by OpenGameArt.org and drawn by Stephen \"Redshrike\" Challener; and an original character design by Jason-Em."
+        },
+        "avatar": {
+            "@name": "Surge",
+            "sheet": {
+                "image": "Surge.png",
+                "width": "40",
+                "height": "29",
+                "columns": {
+                    "@offset": "0",
+                    "#text": "6"
+                },
+                "rows": {
+                    "@offset": "0",
+                    "#text": "6"
+                },
+                "border": "1",
+                "orientation": "vertical"
+            }
+        }
+    }
+}

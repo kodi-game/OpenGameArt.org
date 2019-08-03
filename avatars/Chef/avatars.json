@@ -1,0 +1,59 @@
+{
+    "avatars": {
+        "info": {
+            "author": "Umz",
+            "source": "https://opengameart.org/content/chef-animated-classic-hero-edit",
+            "license": "Creative Commons 3.0 Attribution License"
+        },
+        "avatar": [
+            {
+                "@name": "Chef 1",
+                "sheet": {
+                    "image": "Chef A1.png",
+                    "width": "16",
+                    "height": "20",
+                    "columns": {
+                        "@offset": "16",
+                        "#text": "6"
+                    },
+                    "rows": {
+                        "@offset": "6",
+                        "#text": "5"
+                    }
+                }
+            },
+            {
+                "@name": "Chef 2",
+                "sheet": {
+                    "image": "Chef B1.png",
+                    "width": "16",
+                    "height": "20",
+                    "columns": {
+                        "@offset": "16",
+                        "#text": "6"
+                    },
+                    "rows": {
+                        "@offset": "6",
+                        "#text": "5"
+                    }
+                }
+            },
+            {
+                "@name": "Chef 3",
+                "sheet": {
+                    "image": "Chef W1.png",
+                    "width": "16",
+                    "height": "20",
+                    "columns": {
+                        "@offset": "16",
+                        "#text": "6"
+                    },
+                    "rows": {
+                        "@offset": "6",
+                        "#text": "5"
+                    }
+                }
+            }
+        ]
+    }
+}

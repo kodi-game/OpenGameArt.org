@@ -1,0 +1,110 @@
+{
+    "avatars": {
+        "info": {
+            "author": "DezrasDragons",
+            "source": "https://opengameart.org/content/mechanic-animated",
+            "license": "Creative Commons 3.0 Attribution License"
+        },
+        "avatar": {
+            "@name": "Mechanic",
+            "sheet": {
+                "image": "Mechanic.png",
+                "width": "40",
+                "height": "29",
+                "columns": {
+                    "@offset": "0",
+                    "#text": "6"
+                },
+                "rows": {
+                    "@offset": "0",
+                    "#text": "6"
+                },
+                "border": "1",
+                "orientation": "vertical"
+            },
+            "actions": {
+                "action": [
+                    {
+                        "@name": "idle",
+                        "frame": [
+                            "1",
+                            "2",
+                            "3",
+                            "4"
+                        ]
+                    },
+                    {
+                        "@name": "run",
+                        "frame": [
+                            "7",
+                            "8",
+                            "9",
+                            "10",
+                            "11",
+                            "12"
+                        ]
+                    },
+                    {
+                        "@name": "jump",
+                        "frame": "13"
+                    },
+                    {
+                        "@name": "land",
+                        "frame": [
+                            "14",
+                            "15"
+                        ]
+                    },
+                    {
+                        "@name": "damage",
+                        "frame": "16"
+                    },
+                    {
+                        "@name": "punch",
+                        "frame": [
+                            "19",
+                            "20",
+                            "21"
+                        ]
+                    },
+                    {
+                        "@name": "swim",
+                        "frame": [
+                            "25",
+                            "26",
+                            "27",
+                            "28",
+                            "29",
+                            "30"
+                        ]
+                    },
+                    {
+                        "@name": "surprise",
+                        "frame": "32"
+                    },
+                    {
+                        "@name": "victory",
+                        "frame": "33"
+                    },
+                    {
+                        "@name": "crouch",
+                        "frame": "34"
+                    },
+                    {
+                        "@name": "slide",
+                        "frame": "35"
+                    }
+                ]
+            },
+            "assets": {
+                "frame": [
+                    "17",
+                    "18",
+                    "23",
+                    "24",
+                    "31"
+                ]
+            }
+        }
+    }
+}

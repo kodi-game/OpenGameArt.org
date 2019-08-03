@@ -1,0 +1,25 @@
+{
+    "avatars": {
+        "info": {
+            "author": "GrafxKid",
+            "source": "https://opengameart.org/content/green-robot",
+            "license": "Creative Commons 3.0 Attribution License"
+        },
+        "avatar": {
+            "@name": "Green Robot",
+            "sheet": {
+                "image": "Green bot sprites.png",
+                "width": "16",
+                "height": "16",
+                "columns": {
+                    "@offset": "16",
+                    "#text": "7"
+                },
+                "rows": {
+                    "@offset": "16",
+                    "#text": "4"
+                }
+            }
+        }
+    }
+}

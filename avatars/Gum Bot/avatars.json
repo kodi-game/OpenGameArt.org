@@ -1,0 +1,69 @@
+{
+    "avatars": {
+        "info": {
+            "author": "GrafxKid",
+            "source": "https://opengameart.org/content/gum-bot-sprites",
+            "license": "Creative Commons 3.0 Attribution License"
+        },
+        "avatar": {
+            "@name": "Gum Bot",
+            "sheet": {
+                "image": "Gum Bot sprites.png",
+                "width": "32",
+                "height": "32",
+                "columns": {
+                    "@offset": "32",
+                    "#text": "6"
+                },
+                "rows": {
+                    "@offset": "32",
+                    "#text": "3"
+                }
+            },
+            "actions": {
+                "action": [
+                    {
+                        "@name": "spin",
+                        "frame": [
+                            "1",
+                            "2",
+                            "3",
+                            "4",
+                            "5"
+                        ]
+                    },
+                    {
+                        "@name": "surprise",
+                        "frame": "6"
+                    },
+                    {
+                        "@name": "run",
+                        "frame": [
+                            "7",
+                            "8",
+                            "9",
+                            "10",
+                            "11",
+                            "12"
+                        ]
+                    },
+                    {
+                        "@name": "blink",
+                        "frame": "13"
+                    },
+                    {
+                        "@name": "flicker",
+                        "frame": [
+                            "14",
+                            "15"
+                        ]
+                    },
+                    {
+                        "@name": "powerdown",
+                        "frame": "16"
+                    }
+                ]
+            }
+        }
+    }
+}

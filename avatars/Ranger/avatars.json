@@ -1,0 +1,27 @@
+{
+    "avatars": {
+        "info": {
+            "author": "DezrasDragons",
+            "source": "https://opengameart.org/content/android-robot-animated",
+            "license": "Creative Commons 3.0 Attribution License"
+        },
+        "avatar": {
+            "@name": "Ranger",
+            "sheet": {
+                "image": "Archer.png",
+                "width": "40",
+                "height": "29",
+                "columns": {
+                    "@offset": "0",
+                    "#text": "6"
+                },
+                "rows": {
+                    "@offset": "0",
+                    "#text": "6"
+                },
+                "border": "1",
+                "orientation": "vertical"
+            }
+        }
+    }
+}
